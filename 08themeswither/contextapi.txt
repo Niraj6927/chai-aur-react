@@ -1,0 +1,23 @@
+🚀It's a game changer for React developers! 🚀
+
+✔ Say goodbye to prop drilling and hello to a cleaner, more efficient way of managing state in your applications.
+
+🚀 What is Prop Drilling ❓
+In React , Prop drilling is a key concept that involves passing data down the component from a parent component to a deeply nested child component .
+
+🚀Disadvantage Of Prop Drilling 😞 
+👉 Code Complexity
+👉Reduced Maintainability
+👉Performance Overhead
+👉Increased Development Time
+
+
+🚀 Why Context Api ❓ 
+In React, passing down props can be effective for sharing data,
+but let's face it – passing props through a chain of multiple components
+just to reach a specific one can make your code a bit... well, inefficient. 😅
+
+🔑 Context API to the Rescue!
+Context API simplifies state management by allowing you to share values like themes,
+user authentication, or any global data across your components without the hassle of passing props at every level.
+It's like giving your app a streamlined superpower! 💪
